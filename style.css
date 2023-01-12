@@ -13,16 +13,27 @@ div#page-container{		width: 1000px;
 	
 }
 	
-div#partyImg1{			background-image: url("images/Homepage space ship.jpg");
+div#partyImg1{			background-image: url("images/First-space-ship-home-page.jpg");
 						width: 1000px;
 						height: 665px;
-	
+
 
 }
 
-			width: 1000px;
-					height: 220px;
-					background-color: #F9E3C7;
+div#partyImg1 img{		padding-top: 200px;}
+
+
+div#infohome{		width: 1000px;
+					height: 200px;
+					background-color: #FCE9FF;
 					padding-top: 30px;
 					padding-bottom: 30px;
 					margin-top: 15px;
+
+}
+
+div#partyImg2{			background-image: url("images/Homepage space ship.jpg");
+						width: 1000px;
+						height: 665px;
+
+}
