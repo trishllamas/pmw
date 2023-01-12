@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+/* TSA - Party in the Milky Way */
+
+*{		margin:0;
+		padding:0;
+}
+
+
+
+div#page-container{		width: 1000px;
+						margin: 0 auto;
+	
+}
+	
+div#partyImg1{			background-image: url("images/Homepage space ship.jpg");
+						width: 1000px;
+						height: 665px;
+	
+
+}
+
+			width: 1000px;
+					height: 220px;
+					background-color: #F9E3C7;
+					padding-top: 30px;
+					padding-bottom: 30px;
+					margin-top: 15px;
