@@ -5,35 +5,60 @@
 *{		margin:0;
 		padding:0;
 }
+/*
+html {
+  background: url(img_man.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+*/
+div#web-container{		width: 100%;
+						height:auto;
+						margin:0 auto;	
+}
 
-
-
-div#page-container{		width: 1000px;
+div#page-container{		background: url("images/FirstSpace.jpg") no-repeat center fixed;
+						background-size:cover;						
+						min-width:500px;
 						margin: 0 auto;
+						
 	
 }
+
 	
-div#partyImg1{			background-image: url("images/First-space-ship-home-page.jpg");
+div#partyImg1{			
 						width: 1000px;
 						height: 665px;
+						margin: 0 auto;
+						
 
 
 }
 
-div#partyImg1 img{		padding-top: 200px;}
+div#partyImg1 img{		padding-top: 25%;
+						width: 100%;
+						height: auto;
+						
+}
 
 
-div#infohome{		width: 1000px;
-					height: 200px;
-					background-color: #FCE9FF;
+div#infohome{		width: 100%;
+					height: 50%;
+					background-color: #F8F8F8;
 					padding-top: 30px;
-					padding-bottom: 30px;
-					margin-top: 15px;
+					padding-bottom: 30px; 
+					margin: 0 auto;
+					text-align: center;
 
 }
 
-div#partyImg2{			background-image: url("images/Homepage space ship.jpg");
-						width: 1000px;
-						height: 665px;
 
+
+div#partyImg2{		background: url("images/supernova.jpg");
+					width: 100%;
+					height: 600px;
+					text-align: center;
+					margin: 0 auto;
+	
+	
+	
 }
