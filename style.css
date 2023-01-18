@@ -160,6 +160,17 @@ div#footer{			width: 100%;
 
 }
 
+div#footer p{		text-align: center;
+					font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+					font-weight: bold;
+					
+
+}
+
+div#footer a{		color: #b68cae;
+	
+}
+
 
 div#aboutImg1{			max-width: 1000px;
 						height: 1000px;
