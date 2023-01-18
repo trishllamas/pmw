@@ -12,7 +12,7 @@ html {
 }
 */
 
-body{			background:url("images/Navbackground.png") repeat-x top;
+body{			background-image:url("images/Navbackground.png") repeat-x top;
 }
 
 
@@ -31,7 +31,7 @@ div#page-container{		background: url("images/FirstSpace.jpg") no-repeat center f
 }
 
 
-ul#navbar{		background: url("images/Navfinal.png") no-repeat;
+ul#navbar{		background: url("images/navfinal.png") no-repeat;
 				width: 1000px;
 				height: 75px;
 				list-style-type: none;
@@ -127,4 +127,33 @@ div#footer{			width: 100%;
 					padding-bottom: 30px; 
 					margin: 0 auto;
 
+}
+
+div#page-container2{	background: url("images/balloon.jpg") no-repeat center fixed;
+						background-size:cover;						
+						min-width:500px;
+						margin: 0 auto;
+						
+}
+
+div#aboutImg1{			max-width: 1000px;
+						height: 1000px;
+						margin: 0 auto;
+}
+
+div#aboutImg1 img{
+						width: 100%;
+						height: auto;
+						
+}
+
+div#vehiclesImg1{		max-width: 1000px;
+						height: 1000px;
+						margin: 0 auto;
+}
+
+div#vehiclesImg1 img{
+						width: 100%;
+						height: auto;
+						
 }
