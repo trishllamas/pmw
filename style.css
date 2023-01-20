@@ -29,7 +29,7 @@ div#page-container{		background: url("images/purplerocket.jpg") no-repeat center
 						
 }
 
-div#page-container2{	background: url("images/balloon.jpg") no-repeat center fixed;
+div#page-container2{	background: url("images/nasaearth2.jpg") no-repeat center fixed;
 						background-size:cover;						
 						min-width:500px;
 						margin: 0 auto;
@@ -43,14 +43,14 @@ div#page-container3{	background: url("images/purple1.png") no-repeat center fixe
 						
 }
 
-div#page-container4{	background: url("images/nasaearth2.jpg") no-repeat center fixed;
+div#page-container4{	background: url("images/balloon.jpg") no-repeat center fixed;
 						background-size:cover;						
 						min-width:500px;
 						margin: 0 auto;
 						
 }
 
-div#page-container5{	background: url("images/safety and rec.jpg") no-repeat center fixed;
+div#page-container5{	background: url("images/planet-with-stars.jpg") no-repeat center fixed;
 						background-size:cover;						
 						min-width:500px;
 						margin: 0 auto;
@@ -62,7 +62,7 @@ div#topbar{			background:url("images/Navbackground.png") repeat-x top;
 	
 }
 
-ul#navbar{			background: url("images/Navfinal.png") no-repeat;
+ul#navbar{		background: url("images/navfinal.png") no-repeat;
 				width: 1000px;
 				height: 75px;
 				list-style-type: none;
@@ -174,7 +174,7 @@ div#footer a{		color: #b68cae;
 
 
 div#aboutImg1{			max-width: 1000px;
-						height: 1000px;
+						height: 900px;
 						margin: 0 auto;
 }
 
@@ -185,7 +185,7 @@ div#aboutImg1 img{
 }
 
 div#vehiclesImg1{		max-width: 1000px;
-						height: 1000px;
+						height: 900px;
 						margin: 0 auto;
 }
 
@@ -196,7 +196,7 @@ div#vehiclesImg1 img{
 }
 
 div#safetyImg1{		max-width: 1000px;
-						height: 1000px;
+						height: 900px;
 						margin: 0 auto;
 }
 
@@ -207,7 +207,7 @@ div#safetyImg1 img{
 }
 
 div#bookImg1{		max-width: 1000px;
-						height: 1000px;
+						height: 900px;
 						margin: 0 auto;
 }
 
