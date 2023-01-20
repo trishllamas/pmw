@@ -72,7 +72,6 @@ ul#navbar{		background: url("images/navfinal.png") no-repeat;
 ul#navbar span{	display:none;
 }
 
-
 ul#navbar li{	display: inline;
 				float: left;
 }
