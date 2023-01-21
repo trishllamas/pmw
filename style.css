@@ -62,7 +62,12 @@ div#topbar{			background:url("images/Navbackground.png") repeat-x top;
 	
 }
 
-
+ul#navbar{		background: url("images/navfinal.png") no-repeat;
+				width: 1000px;
+				height: 75px;
+				list-style-type: none;
+				margin: 0 auto;
+}
 
 ul#navbar span{	display:none;
 }
